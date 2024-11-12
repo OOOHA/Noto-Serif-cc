@@ -1,0 +1,121 @@
+[
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1028,
+        "nameID": 1,
+        "nameString": "思源宋體 TW <Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1028,
+        "nameID": 2,
+        "nameString": " "
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1028,
+        "nameID": 4,
+        "nameString": "思源宋體 TW <Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1028,
+        "nameID": 16,
+        "nameString": "思源宋體 TW"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1028,
+        "nameID": 17,
+        "nameString": "<Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 2,
+        "nameString": " "
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 3,
+        "nameString": "Han Serif TW <Typographic Subfamily Name>:Version <Version>"
+    }, 
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 4,
+        "nameString": "Han Serif TW <Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 5,
+        "nameString": "Version <Version>;<Date>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 6,
+        "nameString": "HanSerif-TW-<Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 16,
+        "nameString": "Han Serif TW"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "nameID": 17,
+        "nameString": "<Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 2052,
+        "nameID": 1,
+        "nameString": "思源宋體 TW <Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 2052,
+        "nameID": 2,
+        "nameString": " "
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 2052,
+        "nameID": 4,
+        "nameString": "思源宋體 TW <Typographic Subfamily Name>"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 2052,
+        "nameID": 16,
+        "nameString": "思源宋體 TW"
+    },
+    {
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 2052,
+        "nameID": 17,
+        "nameString": "<Typographic Subfamily Name>"
+    }
+]

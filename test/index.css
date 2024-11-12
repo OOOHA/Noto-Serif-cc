@@ -1,0 +1,219 @@
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 200;
+  src: url("../fonts/HanSerifSC-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 300;
+  src: url("../fonts/HanSerifSC-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 400;
+  src: url("../fonts/HanSerifSC-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 500;
+  src: url("../fonts/HanSerifSC-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 600;
+  src: url("../fonts/HanSerifSC-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 700;
+  src: url("../fonts/HanSerifSC-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 800;
+  src: url("../fonts/HanSerifSC-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Original";
+  font-weight: 900;
+  src: url("../fonts/HanSerifSC-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 200;
+  src: url("../output/HanSerif-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 300;
+  src: url("../output/HanSerif-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 400;
+  src: url("../output/HanSerif-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 500;
+  src: url("../output/HanSerif-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 600;
+  src: url("../output/HanSerif-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 700;
+  src: url("../output/HanSerif-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 800;
+  src: url("../output/HanSerif-TW-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 900;
+  src: url("../output/HanSerif-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 200;
+  src: url("../output/HanSerif-TW-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 300;
+  src: url("../output/HanSerif-TW-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 400;
+  src: url("../output/HanSerif-TW-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 500;
+  src: url("../output/HanSerif-TW-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 600;
+  src: url("../output/HanSerif-TW-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 700;
+  src: url("../output/HanSerif-TW-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test";
+  font-weight: 800;
+  src: url("../output/HanSerif-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HanSerif-Test-TW";
+  font-weight: 900;
+  src: url("../output/HanSerif-TW-Black.ttf") format("truetype");
+}
+
+:lang(en) { font-family: sans-serif, sans-serif; }
+:lang(zh-CN) { font-family: 'HanSerif-Original', serif; }
+:lang(zh-CN).cn { font-family: 'HanSerif-Test', serif; }
+:lang(zh-CN).tw { font-family: 'HanSerif-Test-TW', serif; }
+
+.w100 { font-weight: 200; }
+.w300 { font-weight: 300; }
+.w400 { font-weight: 400; }
+.w500 { font-weight: 500; }
+.w600 { font-weight: 600; }
+.w700 { font-weight: 700; }
+.w800 { font-weight: 800; }
+.w900 { font-weight: 900; }
+
+
+/* 卡片樣式 */
+/* 卡片樣式 */
+/* 卡片樣式 */
+/* 卡片樣式 */
+/* 整體頁面背景設定為黑色 */
+/* 整體頁面背景設定為黑色 */
+body {
+  background-color: #000; /* 頁面背景為黑色 */
+  color: #fff; /* 頁面上的其他文字顏色設為白色 */
+  margin: 0;
+  padding: 0 20px; /* 給整體頁面兩側添加間距 */
+}
+
+/* 卡片樣式 */
+.card {
+  background-color: #f2f2f2; /* 淡灰色卡片背景 */
+  color: #333; /* 深灰色文字 */
+  border: #333;
+  border-radius: 25px; /* 增加圓角 */
+  padding: 16px;
+  margin: 16px 0; /* 上下留空 */
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* 左側標籤 */
+.label {
+  width: 150px;
+  font-weight: bold;
+  margin-right: 16px;
+}
+
+/* 右側內容垂直顯示 */
+.card .cn,
+.card .tw {
+  margin-left: 166px;
+  margin-top: 4px;
+}
+
+/* 輸入區域樣式 */
+.input-section {
+  background-color: #fff; /* 深色背景 */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* 輸入框樣式 */
+#textInput {
+  padding: 10px;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+/* 按鈕樣式 */
+button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: #53a3cf; 
+  color: white;
+  cursor: pointer;
+}
+
+/* 輸出區域樣式 */
+.output-section {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.cn, .tw {
+  font-size: 1.5em;
+  margin: 8px 0;
+}
