@@ -5,6 +5,8 @@
 # 關於這個字體
 Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求。Noto Serif TC 是一款針對台灣、香港和澳門使用的傳統漢字設計的襯線字體。它同時支援平假名、片假名、拉丁字母、西里爾字母、希臘字母以及韓文字母，並提供多種粗細。[來源](https://fonts.google.com/noto/specimen/Noto+Serif+TC)
 
+**[源字體-繁](https://fonts.google.com/noto/specimen/Noto+Serif+TC)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[源字體-簡](https://fonts.google.com/noto/specimen/Noto+Serif+SC)**
+
 # 關於這個專案
 這個專案的目的是讓使用者在閱讀Kindle時，可以在閱讀時使用這個字體完成直接的簡體字轉繁體字。
 
@@ -41,6 +43,8 @@ Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求
 # About This Font
 
 Noto is a global font collection for writing in all modern and ancient languages. Noto Serif TC is a modulated (“serif”) design for languages in Taiwan, Hong Kong and Macau that use the Traditional Chinese variant of the Han ideograms. It also supports Hiragana, Katakana, Latin, Cyrillic, Greek and Hangul. It has multiple weights.[source](https://fonts.google.com/noto/specimen/Noto+Serif+TC)
+
+**[Noto Serif-Traditional Chinese](https://fonts.google.com/noto/specimen/Noto+Serif+TC)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Noto Serif-Simplify Chinese](https://fonts.google.com/noto/specimen/Noto+Serif+SC)**
 
 # About This Project
 The purpose of this project is to allow users to convert Simplified Chinese characters to Traditional Chinese directly while reading on a Kindle using this custom font.
