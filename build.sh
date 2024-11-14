@@ -6,8 +6,6 @@ set -e
 
 mkdir -p fonts
 
-#https://fonts.google.com/noto/specimen/Noto+Serif+TC
-##繁體
 #https://fonts.google.com/noto/specimen/Noto+Serif+SC
 ##簡體
 
