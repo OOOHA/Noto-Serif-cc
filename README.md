@@ -32,7 +32,11 @@ Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求
 <span style="color: gold; font-size: 1em;">⭐</span> 字體可自行調整大小及粗細
 
 **[Kindle使用指南](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7N7RPHV2SW8CKBW?&view-type=content-only&nodl=0&ref_=hp_GDRLC59WEFZTBPU7_Kindle-----------------)**
+
+# [回報問題](https://github.com/OOOHA/Noto-Serif-cc/issues)
 ---
+---
+
 
 # About This Font
 
@@ -69,3 +73,5 @@ The purpose of this project is to allow users to convert Simplified Chinese char
 <span style="color: gold; font-size: 1em;">⭐</span>  You can adjust the font size and weight as needed.
 
 **[Kindle E-Reader User and Quick Start Guides](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7N7RPHV2SW8CKBW?&view-type=content-only&nodl=0&ref_=hp_GDRLC59WEFZTBPU7_Kindle-E-Reader-User-and-Quick)**
+
+* [Report Issues](https://github.com/OOOHA/Noto-Serif-cc/issues)
