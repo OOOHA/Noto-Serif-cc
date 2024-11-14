@@ -5,7 +5,7 @@ set -e
 # Download source
 
 mkdir -p fonts
-#https://github.com/adobe-fonts/source-han-serif/tree/release/?tab=readme-ov-file
+
 #https://fonts.google.com/noto/specimen/Noto+Serif+TC
 ##繁體
 #https://fonts.google.com/noto/specimen/Noto+Serif+SC
