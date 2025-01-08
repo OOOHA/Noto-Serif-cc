@@ -1,6 +1,6 @@
 **[下載字型](https://github.com/OOOHA/Noto-Serif-cc/releases)**&nbsp;&nbsp;&nbsp;**[Download the Font](https://github.com/OOOHA/Noto-Serif-cc/releases)**   
 
-**[English Version](https://github.com/OOOHA/Noto-Serif-cc/tree/main#about-this-font)**   
+**[English Version](# About This Font)**   
 
 # 關於這個字體
 Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求。Noto Serif TC 是一款針對台灣、香港和澳門使用的傳統漢字設計的襯線字體。它同時支援平假名、片假名、拉丁字母、西里爾字母、希臘字母以及韓文字母，並提供多種粗細。[來源](https://fonts.google.com/noto/specimen/Noto+Serif+TC)
