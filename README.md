@@ -18,10 +18,15 @@ Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求
 ### 在Kindle資料夾中找到```fonts```資料夾
 
 ### 將本字體放入```fonts```資料夾
->注意！<br>如下載後為壓縮檔，請先解壓縮
+> [!Tip]
+> 如下載後為壓縮檔，請先解壓縮
+
 
 ### 重新啟動Kindle **[官方教學](https://www.amazon.co.jp/-/zh/gp/help/customer/display.html?nodeId=G9WDGDTCSDQMSU7Z&ref_=hp_GDRLC59WEFZTBPU7_--Kindle------)**
->建議<br>使用右上角...進入設定，再次點選...即有重新啟動選項
+
+> [!Tip]
+> 使用右上角...進入設定，再次點選...即有重新啟動選項
+
 
 
 ### 進入你要閱讀的書籍/文件
@@ -31,7 +36,9 @@ Noto 是一套全球字體集，涵蓋所有現代與古代語言的書寫需求
 * 選擇Aa
 * 選擇字體
 * 進入選擇字體
->字體可自行調整大小、粗細以及行距
+
+> [!Tip]
+> 字體可自行調整大小、粗細以及行距
 
 
 **[Kindle使用指南](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7N7RPHV2SW8CKBW?&view-type=content-only&nodl=0&ref_=hp_GDRLC59WEFZTBPU7_Kindle-----------------)**
@@ -59,11 +66,13 @@ The purpose of this project is to allow users to convert Simplified Chinese char
 ### Locate the ```fonts``` folder in the Kindle directory
 
 ### Place the downloaded font file into the fonts folder
-> Note:<br> If the file is downloaded as a ```zip``` file, please unzip it first.
+> [!Tip]
+> If the file is downloaded as a ```zip``` file, please unzip it first.
 
 
 ### Restart the Kindle [Official Guide](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9WDGDTCSDQMSU7Z&ref_=hp_GDRLC59WEFZTBPU7_Restart-Your-Kindle-E-Reader)
->It’s easier to click the ... at the upper right corner to access the setting and click the ... at the upper right corner again and restart
+> [!Tip]
+> It’s easier to click the ... at the upper right corner to access the setting and click the ... at the upper right corner again and restart
 
 
 ### Open the book/document you wish to read
@@ -74,7 +83,8 @@ The purpose of this project is to allow users to convert Simplified Chinese char
 * Select Aa
 * Choose “Fonts”
 * Navigate to select your desired font
->You can customize the font size, weight, and line spacing.
+> [!Tip]
+> You can customize the font size, weight, and line spacing.
 
 
 **[Kindle E-Reader User and Quick Start Guides](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7N7RPHV2SW8CKBW?&view-type=content-only&nodl=0&ref_=hp_GDRLC59WEFZTBPU7_Kindle-E-Reader-User-and-Quick)**
